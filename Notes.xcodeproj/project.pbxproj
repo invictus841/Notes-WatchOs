@@ -20,6 +20,7 @@
 		AC0EFAAD28193ED10024906C /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0EFAAC28193ED10024906C /* CreditsView.swift */; };
 		AC0EFAB028193F8C0024906C /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0EFAAF28193F8C0024906C /* HeaderView.swift */; };
 		AC0EFAB1281945370024906C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC0EFA80281707300024906C /* Assets.xcassets */; };
+		AC0EFAB528194D970024906C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0EFAB2281947670024906C /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +80,7 @@
 		AC0EFAAA2819359C0024906C /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		AC0EFAAC28193ED10024906C /* CreditsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
 		AC0EFAAF28193F8C0024906C /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		AC0EFAB2281947670024906C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				AC0EFA8B281707310024906C /* ContentView.swift */,
 				AC0EFAAA2819359C0024906C /* DetailView.swift */,
 				AC0EFAAC28193ED10024906C /* CreditsView.swift */,
+				AC0EFAB2281947670024906C /* SettingsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC0EFA8C281707310024906C /* ContentView.swift in Sources */,
+				AC0EFAB528194D970024906C /* SettingsView.swift in Sources */,
 				AC0EFA8E281707310024906C /* NotesApp.swift in Sources */,
 				AC0EFA90281707310024906C /* ComplicationController.swift in Sources */,
 				AC0EFAAD28193ED10024906C /* CreditsView.swift in Sources */,
